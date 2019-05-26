@@ -1,0 +1,1 @@
+Project for scaffolding full stack Typescript applications. 
