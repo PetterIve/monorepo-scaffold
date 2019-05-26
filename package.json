@@ -1,0 +1,19 @@
+{
+  "name": "root",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetterIve/shopr.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PetterIve/shopr/issues"
+  },
+  "homepage": "https://github.com/PetterIve/shopr#readme",
+  "devDependencies": {
+    "lerna": "^3.14.1"
+  }
+}
