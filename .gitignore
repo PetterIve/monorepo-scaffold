@@ -1,3 +1,6 @@
+build
+dist
+lib
 
 # Created by https://www.gitignore.io/api/node,sass,typings,intellij
 # Edit at https://www.gitignore.io/?templates=node,sass,typings,intellij
