@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "@scaffold/core",
   "version": "0.0.1",
   "description": "Types and schema validation",
   "main": "index.js",

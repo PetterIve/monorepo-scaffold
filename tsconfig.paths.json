@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "core": ["packages/core/*"]
+      "@scaffold/core": ["packages/core/*"]
     }
   }
 }
